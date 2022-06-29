@@ -1,6 +1,5 @@
 Hi!
-
-I am a beginner python/bash developer from Russia.
+I am a beginner python developer from Russia.
 
 <!---
 jsonstackhum/jsonstackhum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
